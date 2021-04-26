@@ -42,9 +42,9 @@
 <br />
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=
-Hasnain01-hub&count_private=true&show_icons=true&theme=radical" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+  <img align="left" alt="Hasnain01-hub" src="https://github-readme-stats.Hasnain01-hub.vercel.app/api?username=Hasnain01-hub&show_icons=true&hide_border=true" />
+
+  <img src="https://github-readme-stats.Hasnain01-hub.vercel.app/api/top-langs/?username=
 Hasnain01-hub&layout=compact&theme=radical" >
 
 
