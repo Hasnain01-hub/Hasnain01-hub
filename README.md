@@ -44,9 +44,9 @@
 
  <!-- ![Hasnain GitHub stats]<img align="left" alt="Hasnain01-hub" src="https://github-readme-stats.Hasnain01-hub.vercel.app/api?username=Hasnain01-hub&show_icons=true&theme=merko&hide_border=true" /> -->
 
- [![Hasnain's GitHub statss](https://github-readme-stats.vercel.app/api/wakatime?username=Hasnain01-hub)](https://github.com/Hasnain01-hub/github-readme-stats)
+ [![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hasnain01-hub&theme=merko)](https://github.com/Hasnain01-hub/github-readme-stats)
   <!-- ![Most Used languages]<img src="https://github-readme-stats.Hasnain01-hub.vercel.app/api/top-langs/?username=Hasnain01-hub&layout=compact&theme=merko" /> -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain01-hub&layout=compact)](https://github.com/Hasnain01-hub/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain01-hub&layout=compact&theme=merko)](https://github.com/Hasnain01-hub/github-readme-stats)
 
 <br/>
 
