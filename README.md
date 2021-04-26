@@ -42,10 +42,9 @@
 <br />
 <br />
 
-  <img align="left" alt="Hasnain01-hub" src="https://github-readme-stats.Hasnain01-hub.vercel.app/api?username=Hasnain01-hub&show_icons=true&hide_border=true" />
+ ![Hasnain GitHub stats] <img align="left" alt="Hasnain01-hub" src="https://github-readme-stats.Hasnain01-hub.vercel.app/api?username=Hasnain01-hub&show_icons=true&theme=merko&hide_border=true" />
 
-  <img src="https://github-readme-stats.Hasnain01-hub.vercel.app/api/top-langs/?username=
-Hasnain01-hub&layout=compact&theme=radical" />
+  ![Most Used languages]<img src="https://github-readme-stats.Hasnain01-hub.vercel.app/api/top-langs/?username=Hasnain01-hub&layout=compact&theme=merko" />
 
 
 <br/>
