@@ -1,6 +1,6 @@
 
 # Hi there, <span class="wave">👋</span> I'm Hasnain Sayyed
-<h3> I am a <strong>Computer Eng student</strong>, playing with frameworks, learning new langauges and exploring more in this feild...</h3>
+<h3> I am a <strong>Computer Eng student</strong>, playing with frameworks, learning new langauges and exploring more in the feild...</h3>
 <br />
 
 [![Website](https://img.shields.io/website?label=hasnain-sayyed&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasnain-sayyed.netlify.app/)
@@ -43,9 +43,9 @@
 <br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=
-Hasnain01-hub&count_private=true&show_icons=true&theme=radical" height="170px">
+Hasnain01-hub&count_private=true&show_icons=true&theme=radical" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Hasnain01-hub&layout=compact&theme=radical" height="170px">
+Hasnain01-hub&layout=compact&theme=radical" >
 
 
 <br/>
