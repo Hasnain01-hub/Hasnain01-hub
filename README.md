@@ -1,5 +1,5 @@
 
-# Hi there, ![Hello-gif](https://media.giphy.com/media/brsEO1JayBVja/giphy.gif) I'm Hasnain Sayyed
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hasnain Sayyed
 <h3> I am a <strong>Computer Eng student</strong>, learning new langauges, playing with frameworks and exploring more in the feild...</h3>
 <br />
 
