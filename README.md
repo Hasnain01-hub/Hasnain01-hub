@@ -1,6 +1,6 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hasnain Sayyed
-<h3> I am a <strong>Computer Eng student</strong>, learning new langauges, playing with frameworks and exploring more in the feild...</h3>
+<h3> I am a <strong>Computer Eng student</strong>, learning new langauges, playing with frameworks and exploring more in this feild...</h3>
 <br />
 
 [![Website](https://img.shields.io/website?label=hasnain-sayyed&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasnain-sayyed.netlify.app/)
