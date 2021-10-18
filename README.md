@@ -3,7 +3,7 @@
 <h3> I am a <strong>Computer Eng student</strong>, learning new langauges, playing with frameworks and exploring more in this feild...</h3>
 <br />
 
-[![Website](https://img.shields.io/website?label=hasnain-sayyed&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasnain-sayyed.netlify.app/)
+[![Website](https://img.shields.io/website?label=hasnain-sayyed&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasnain-sayyed.me/)
 
 
  <!--<img src="https://camo.githubusercontent.com/f2db63f9611b9b107dd785b6b600291bcc9532dfdf9e38df4554f7305cd5b4e7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f68616d7373686168" alt="Hasnain" data-canonical-src="https://komarev.com/ghpvc/?username=Hasnain01-hub" style="max-width:100%;"> -->
