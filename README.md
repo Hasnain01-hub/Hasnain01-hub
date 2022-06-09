@@ -1,5 +1,5 @@
 
-# Hi there, <img max-width="39px" class="override"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hasnain Sayyed
+# Hi there, <img style="max-width:39px;"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hasnain Sayyed
 <h3> I am a <strong>IT Eng student</strong>, learning new langauges, playing with frameworks and exploring more in this feild...</h3>
 <br />
 
