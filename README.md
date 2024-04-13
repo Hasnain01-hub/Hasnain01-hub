@@ -1,6 +1,6 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hasnain Sayyed
-<h3> I am Hasnain Sayyed, I am currently pursuing a bachelor's degree in Information Technology. In addition to my curriculum, I have a strong passion for participating in hackathons and solving real-world problems. I have actively participated in over 20+ hackathons, where I have showcased my skills and emerged as a winner in 9 of them. Alongside my academic journey, I also engage in freelancing, providing assistance and solving problems for my peers.</h3>
+<h3> I am Hasnain Sayyed, I am currently pursuing a bachelor's degree in Information Technology. In addition to my curriculum, I have a strong passion for participating in hackathons and solving real-world problems. I have actively participated in over 20+ hackathons, where I have showcased my skills and emerged as a winner in 9 of them.</h3>
 <br />
 
 [![Website](https://img.shields.io/website?label=hasnain-sayyed&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hasnain-sayyed.netlify.app/)
